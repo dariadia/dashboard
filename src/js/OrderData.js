@@ -42,5 +42,37 @@ export const rows = [
     "Long Branch, NJ",
     "VISA ⠀•••• 5919",
     212.79
+  ),
+  createData(
+    5,
+    "16 Mar, 2019",
+    "Paul McCartney",
+    "London, UK",
+    "VISA ⠀•••• 2574",
+    866.99
+  ),
+  createData(
+    6,
+    "16 Mar, 2019",
+    "Tom Scholz",
+    "Boston, MA",
+    "MC ⠀•••• 1253",
+    100.81
+  ),
+  createData(
+    7,
+    "16 Mar, 2019",
+    "Michael Jackson",
+    "Gary, IN",
+    "AMEX ⠀•••• 2000",
+    654.39
+  ),
+  createData(
+    8,
+    "15 Mar, 2019",
+    "Bruce Springsteen",
+    "Long Branch, NJ",
+    "VISA ⠀•••• 5919",
+    212.79
   )
 ];
