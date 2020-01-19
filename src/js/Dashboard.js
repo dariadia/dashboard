@@ -79,7 +79,10 @@ const Dashboard = () => {
           >
             Dashboard
           </Typography>
-          <IconButton color="inherit">
+          <IconButton
+            color="inherit"
+            onClick={() => alert("You have new notifications!")}
+          >
             <Badge badgeContent={4} color="secondary">
               <NotificationsIcon />
             </Badge>
